@@ -1,6 +1,6 @@
 # DLMDSPWP01 – Selection of Ideal Functions and Test Data Mapping
 
-**Author:** Shubham Mistry | **Matric No.:** 4242221  
+**Author:** Naveen Kumar | **Matric No.:** 10244074  
 **Module:** Programming with Python – DLMDSPWP01  
 **Institution:** IU International University of Applied Sciences, Berlin
 
