@@ -2,8 +2,8 @@
 DLMDSPWP01 – Programming with Python
 Selection of Ideal Functions and Test Data Mapping Using Least Squares Method
 
-Author      : Shubham Mistry
-Matric No.  : 4242221
+Author      : Naveen Kumar
+Matric No.  : 10244074
 Institution : IU International University of Applied Sciences, Berlin
 
 Entry point for the full pipeline:
